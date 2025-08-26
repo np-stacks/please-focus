@@ -1,2 +1,2 @@
-# please-focus
-Please Focus! The cool productivity extension! Woo!
+# Please
+Very soon and cool...
