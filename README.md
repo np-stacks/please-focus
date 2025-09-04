@@ -9,3 +9,12 @@ There are multiple modes: `Disabled`, `Focus`, `Strict`, `Jail`, with Jail being
 - **Focus**: Regular Mode; some sites are blocked, but can be unlocked with points.
 - **Strict**: Stricter; some sites are blocked, and cannot be unlocked with points.
 - **Please**: Strictest; some sites are blocked, and the timer option is disabled. You will not be able to spend points.
+
+## How to INSTALL!
+1. Download the latest release files, found in the [Releases section](https://github.com/np-stacks/please-focus/releases).
+2. Unzip the ZIP File.
+3. Head to chrome://extensions
+4. If not enabled, enable `Developer Mode`
+5. Click on `Load Unpacked`
+6. Find and select the PleaseFocus folder.
+- Make sure to report any errors!
